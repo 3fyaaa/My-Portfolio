@@ -56,7 +56,10 @@ ol li:last-child{
     flex-direction: row;
     gap: 10px;
 }
-.project-1 >img{
+
+
+.project-1 img{
+    
     width: 200px;
     height: 200px;
 }
